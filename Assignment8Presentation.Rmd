@@ -1,0 +1,46 @@
+---
+title: "Some Things I Learned this Quarter"
+subtitle: "FISH 497"
+author: "Samantha Kreling<br>skreling@uw.edu"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+## About me | Personal
+
+- Born in California
+- Favorite Foods: Chocolate, frozen blue berries, marinara sauce (*not combined*)
+- Facorite Animal: Coyote
+
+## About me | Academic
+
+- Undergraduate Institution: Univeristy of California Berkeley
+- Undergraduate Major: Molecular Environmental Biology
+
+## About me | Things I've missed during the pandemic
+
+1. Traveling/roadtripping with friends
+2. Going to in person classes
+3. Study groups that aren't via Zoom or Discord
+
+# Data Science
+
+## Course topics | 3 things I enjoyed learning about
+
+1. Learning how to format presentations and manuscripts using R and R Markdown.
+2. Shiny Apps (didn't even know they existed before this class!)
+3. How to build an R package
+4. Github - this really helped me for some of my other classes!
+
+## Course topics | 3 things I'd like to learn more about
+
+1. How to actually build a Shiny App
+2. Some more design-based/UI things to consider when making websites/presentations/formatting data, anything that might be shared
+3. What makes a good R package, when to create just a few functions and when to decide to turn it into a package.
+
+## {data-background=coy.png data-background-size=cover}
